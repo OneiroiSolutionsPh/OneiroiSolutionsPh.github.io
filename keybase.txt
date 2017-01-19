@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/oneiroisolnph
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oneiroisolutionsph.github.io
+  * I am oneiroisolnph (https://keybase.io/oneiroisolnph) on keybase.
+  * I have a public key with fingerprint 34BE E8D7 DCBC 4042 35E6  1561 FC54 D3B0 1B91 7737
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101787c6b4d386d2bd4c1610a4025849cea10f67a2c8a4010b6bab08fa01bc018120a",
+            "fingerprint": "34bee8d7dcbc404235e61561fc54d3b01b917737",
+            "host": "keybase.io",
+            "key_id": "fc54d3b01b917737",
+            "kid": "0101787c6b4d386d2bd4c1610a4025849cea10f67a2c8a4010b6bab08fa01bc018120a",
+            "uid": "c8e1dd5e58a4dfb78b21100cca267d19",
+            "username": "oneiroisolnph"
+        },
+        "service": {
+            "hostname": "oneiroisolutionsph.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484854634,
+    "expire_in": 157680000,
+    "prev": "89819b6558e15ed0c3ac4fb9094e906411ede5e89d97e463fc538836e53c0d6a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMItAnicrVJbSBVBGD4nLUuIfKjIsoKNIEp0Znd2d/ZUD12goMzoamCddi7Hs6m7
+p7N7rJRjSURFQllJaERGSZDpQ0GohWkYPUgUCZGWFNGDhaUGFmUPzVo91WPzMsw/
+3+X/P/7u6SmB9OCwR2qXPzVosKfrZiJQUDVrX4VEHHZIClVIxXzi4iWMu1642GJS
+SAIQQB3rVCOIKVhjMmGIQg0CEwFZxcig3IQgoummTLGoQUA0YhKAIyaAhAKIoQxM
+KVuKWHYRj8filu0JWQURzjHTGSUUASQrKtegqsEIVYUPEVQD6rqiC2LUcX2GaI6Y
+Ls+xHFETj/BEe//A/+e+ExNyFHPImMpVgWURomMiQwgApaas6QwaPtDlcdss5QLt
+2NyKO5brlNixqJTMlsRXmUW5n64/zl+whGc5thuL5hRZXjRBfg0ZizueQ50SgYx6
+XswN+UreoZhPPcBJ+LdomFg2E+EKRhmPu0JICkGBpJ7lu0CEEVaRpqBsiR+MWXEe
+tnyEqmsYiOP78DIhiQ0MDaKpqhhV5QxQxaQoQgxgIG4ADUHIGVc5Npihc6Enolcw
+VjSuKhQwzc/K5fttRwoJJ88sEpKuVWSbXiLOpeSDzsLUQDA9MGXyJH/pAunTMv6s
+4mBv2o+pV4/Urp+xcPPJW/fKN0VnfVs9Mu18/QrHfiPnjpYODM7Yc6Fvy6lrj0Yf
+d3Ror+a1p433XdydvnZYP5nxZtJoa+bHvWPnk1+bdx7YEWzJ623IWlpyeaw/eDqZ
+N9I1WN72/gN6sba/oX3V4bGV1QV1LSdmj1cerVsemnM/iavBljvbJ7e+XFylp176
+Li8rrHo6d6j0S+3n4obMNaQxuPXhOett9/ce7VnLjeJFeZ9SYiiz/HJWLnu8Kv/M
+hm0DTfubpwcr68+mbW2Tu5uuU1ZdM152+7XU+O5u/pUFQx191vuZyrolx5/gmpbU
+JnTsRKGeHBre1FC+a+Pguyudp80jz3fOD9T/BMbkS94=
+=Kn6i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oneiroisolnph
+
+==================================================================
